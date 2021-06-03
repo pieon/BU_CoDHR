@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hamilton</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+            <div type="song">
+            <head>"Guns and Ships"</head>
+
+            <sp>
+               <speaker>Aaron Burr</speaker>
+               <lg>
+               <l>How does a ragtag volunteer army in need of a shower</l>
+            <l>Somehow defeat a global superpower?</l>
+            <l>How do we emerge victorious from the quagmire?</l>
+            <l>Leave the battlefield waving Betsy Ross' flag higher?</l>
+            <l>Yo, turns out we have a secret weapon</l>
+            <l>An immigrant, you know and love, who's unafraid to step in</l>
+            <l>He's constantly confusin', confoundin' the British henchmen</l>
+            <l>Ev'ryone give it up for America's favorite fighting Frenchman</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Company</speaker>
+               <lg>
+               <l>Lafayette!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>I'm takin' this horse by the reins makin'</l>
+            <l>Redcoats redder with bloodstains</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>Lafayette!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>And I'm never gonna stop until I make 'em</l>
+            <l>Drop and burn 'em up and scatter their remains, I'm</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette and Ensemble</speaker>
+               <lg>
+               <l>Lafayette!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>Watch me engagin' em! Escapin' em!</l>
+            <l>Enragin' em! I'm-</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette and Ensemble</speaker>
+               <lg>
+               <l>Lafayette!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>I go to <placeName>France</placeName> for more funds</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Company</speaker>
+               <lg>
+               <l>Lafayette!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>I come back with more guns</l>
+               </lg>
+            </sp>
+               
+               <sp>
+                  <speaker></speaker>
+            <lg>
+               <l>And ships</l>
+            <l>And so the balance shifts</l>
+            </lg>
+               </sp>
+               
+            <sp>
+               <speaker>Washington</speaker>
+               <lg>
+                  <l>We rendezvous with Rochambeau, consolidate their gifts</l>
+               </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>We can end this war at Yorktown, cut them off at sea, but</l>
+            <l>For this to succeed, there is someone else we need</l>
+               </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington</speaker>
+               <lg>
+            <l>I know</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington and Company</speaker>
+               <lg>
+               <l>Hamilton!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>Sir, he knows what to do in a trench</l>
+            <l>Ingenuitive and fluent in French, I mean-</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington and Company</speaker>
+               <lg>
+               <l>Hamilton!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>Sir, you're gonna have to use him eventually</l>
+            <l>What's he gonna do on the bench ami?</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington and Company</speaker>
+               <lg>
+               <l>Hamilton!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette</speaker>
+               <lg>
+               <l>No one has more resilience</l>
+            <l>Or matches my practical tactical brilliance</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington and Company</speaker>
+               <lg>
+               <l>Hamilton!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Lafayette and Company</speaker>
+               <lg>
+               <l>You wanna fight for your land back?</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Company</speaker>
+               <lg>
+               <l>Hamilton!</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington</speaker>
+               <lg>
+               <l>I need my right-hand man back!</l>
+               </lg>
+            </sp>
+               
+               <sp>
+                  <speaker>Lafayette and Company</speaker>
+                  <lg>
+            <l>Ah! Uh, get ya right-hand man, back</l>
+            <l>You know you gotta get ya right-hand man back</l>
+            <l>I mean you gotta put some thought</l>
+            <l>Into the letter but the sooner the better</l>
+            <l>To get your right-hand man back</l>
+            </lg>
+            </sp>
+            
+            <sp>
+               <speaker>Washington</speaker>
+               <lg>
+               <l>Alexander Hamilton</l>
+               <l>Troops are waiting in the field for you</l>
+            <l>If you join us right now, together we can turn the tide</l>
+            <l>Oh, Alexander Hamilton</l>
+            <l>I have soldiers that will yield for you</l>
+            <l>If we manage to get this right</l>
+            <l>They'll surrender by early light</l>
+            <l>The world will never be the same, Alexander</l>
+            </lg>
+            </sp>
+         </div>
+      </body>
+  </text>
+</TEI>
