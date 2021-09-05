@@ -6,55 +6,33 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Harry Potter and the Sorcers Stone</title>
-         	<respStmt>
-         		<name>
-         			<persName>Juliya Harnood</persName>
-         			<orgName>Bucknell University</orgName>
-         		</name>
-         		<resp>Editor</resp>        		
-         	</respStmt>
+            <title>Title</title>
          </titleStmt>
-      	<editionStmt>
-      		<edition>Electronic edition</edition>
-      	</editionStmt>
          <publicationStmt>
-         	<authority>CoHDHR</authority>
+            <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  	<encodingDesc>
-  		<classDecl>
-  			<taxonomy>
-  				<category xml:id="dudleyDursley">
-  					<catDesc>Hogwarts School</catDesc>
-  				</category> 
-  				<category xml:id="petuniaDursley">
-  					
-  				</category>
-  			</taxonomy>
-  		</classDecl>
-  	</encodingDesc>
   </teiHeader>
   <text>
       <body>
-         <div type="chapter" n="5">
-            <head>Chapter 5: Diagon Alley</head>
+<div type="chapter" n="5">         
+   <head>Chapter 5: Diagon Alley</head>
 
-<p>
-Harry woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight.</p>
+   <p>
+Harry woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight.
 
-<p>“It was a dream,” he told himself firmly. “I dreamed a giant called <persName >Hagrid</persName> came to tell me I was going to a <orgName type="academic">school for wizards</orgName>. When I open my eyes I’ll be at home in my <objectName>cupboard</objectName>.”</p>
+“It was a dream,” he told himself firmly. “I dreamed a giant called Hagrid came to tell me I was going to a school for wizards. When I open my eyes I’ll be at home in my cupboard.”
 
-<p>There was suddenly a loud tapping noise.</p>
+There was suddenly a loud tapping noise.
 
-<p>And there’s <persName ref="#person">Petunia</persName> knocking on the door, Harry thought, his heart sinking. But he still didn’t open his eyes. It had been such a good dream.</p>
+And there’s Aunt Petunia knocking on the door, Harry thought, his heart sinking. But he still didn’t open his eyes. It had been such a good dream.
 
-<p>Tap. Tap. Tap.</p>
+Tap. Tap. Tap.
 
-<!--“All right,” Harry mumbled, “I’m getting up.”
+“All right,” Harry mumbled, “I’m getting up.”
 
 He sat up and Hagrid’s heavy coat fell off him. The hut was full of sunlight, the storm was over, Hagrid himself was asleep on the collapsed sofa, and there was an owl rapping its claw on the window, a newspaper held in its beak.
 
@@ -198,29 +176,27 @@ Please note that all pupils’ clothes should carry name tags
 
 COURSE BOOKS
 
-All students should have a copy of each of the following:-->
+All students should have a copy of each of the following:
 
-<list>
-   <item><title>The Standard Book of Spells</title> (Grade 1) by <persName type="author">Miranda Goshawk</persName></item>
+The Standard Book of Spells (Grade 1) by Miranda Goshawk
 
-<item>A History of Magic by Bathilda Bagshot</item>
+A History of Magic by Bathilda Bagshot
 
-<item>Magical Theory by Adalbert Waffling</item>
-   
-<item>A Beginners’ Guide to Transfiguration by Emeric Switch</item>
+Magical Theory by Adalbert Waffling
 
-<item>One Thousand Magical Herbs and Fungi by Phyllida Spore</item>
+A Beginners’ Guide to Transfiguration by Emeric Switch
 
-<item>Magical Drafts and Potions by Arsenius Jigger</item>
+One Thousand Magical Herbs and Fungi by Phyllida Spore
 
-<item>Fantastic Beasts and Where to Find Them by Newt Scamander</item>
+Magical Drafts and Potions by Arsenius Jigger
 
-<item>The Dark Forces: A Guide to Self-Protection by Quentin Trimble</item>
-</list>
+Fantastic Beasts and Where to Find Them by Newt Scamander
+
+The Dark Forces: A Guide to Self-Protection by Quentin Trimble
 
 
 
-<!--OTHER EQUIPMENT
+OTHER EQUIPMENT
 
 1 wand
 
@@ -640,9 +616,7 @@ Hagrid helped Harry on to the train that would take him back to the Dursleys, th
 
 “Yer ticket fer Hogwarts,” he said. “First o’ September — King’s Cross — it’s all on yer ticket. Any problems with the Dursleys, send me a letter with yer owl, she’ll know where to find me. … See yeh soon, Harry.”
 
-The train pulled out of the station. Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his nose against the window, but he blinked and Hagrid had gone.
-         -->
-         </div>
+The train pulled out of the station. Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his nose against the window, but he blinked and Hagrid had gone.</p></div>
       </body>
   </text>
 </TEI>
