@@ -15,15 +15,30 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="time">
+                  <catDesc>time</catDesc>
+               </category>
+               <category xml:id="anatomy">
+                  <catDesc>anatomy</catDesc>
+               <category xml:id="money">
+                  <catDesc>currency</catDesc>
+               </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div type="chapter" n="5">
             <head>Chapter 5: Diagon Alley</head>
             <p>
-               <persName>Harry</persName> woke early the next <date ref="time">morning</date>.
-               Although he could tell it was <date ref="time">daylight</date>, he kept his
-                  <objectName type="anatomy">eyes</objectName> shut tight. </p>
+               <persName>Harry</persName> woke early the next <date ref="#time">morning</date>.
+               Although he could tell it was <date ref="#time">daylight</date>, he kept his
+                  <objectName ref="#anatomy">eyes</objectName> shut tight. </p>
 
             <p>
                <quote>“It was a dream,"</quote> he told himself firmly. <quote>“I dreamed a
@@ -90,8 +105,8 @@
             </p>
 
             <p>
-               <quote>“He wants payin’ fer deliverin’ the <objectName ref="newspaper"
-                     >paper</objectName>. Look in the <placeName ref="coat"
+               <quote>“He wants payin’ fer deliverin’ the <objectName
+                     >paper</objectName>. Look in the <placeName type="coat"
                   >pockets</placeName>.”</quote>
             </p>
 
@@ -147,7 +162,7 @@
 
             <p>
                <quote>“I haven’t got any <objectName type="currency">money</objectName> — and you
-                  heard <roleName ref="Vernon">Uncle</roleName>
+                  heard <roleName type="Vernon">Uncle</roleName>
                   <persName>Vernon</persName>
                   <date type="general">last night</date> … he won’t pay for me to go and learn
                   magic.”</quote>
@@ -166,10 +181,10 @@
             <p>
                <quote>“They didn’ keep their <objectName type="currency">gold</objectName> in the
                      <placeName>house</placeName>, boy! Nah, first stop fer us is <placeName
-                     ref="Wizards' bank">Gringotts</placeName>. <placeName ref="Gringotts">Wizards’
+                     ref="Wizards' bank">Gringotts</placeName>. <placeName type="Gringotts">Wizards’
                      bank</placeName>. Have a <objectName type="food">sausage</objectName>, they’re
                   not bad cold — an’ I wouldn’ say no teh a bit o’ yer birthday <objectName
-                     type="food" ref="birthday">cake</objectName>, neither.”</quote>
+                     type="food">cake</objectName>, neither.”</quote>
             </p>
 
             <p>
@@ -210,9 +225,9 @@
                <persName>Harry</persName> followed <persName>Hagrid</persName> out onto the
                   <placeName>rock</placeName>. The sky was quite clear now and the sea gleamed in
                the sunlight. The <objectName type="transportation">boat</objectName>
-               <roleName ref="Vernon">Uncle</roleName>
+               <roleName type="Vernon">Uncle</roleName>
                <persName>Vernon</persName> had hired was still there, with a lot of water in the
-                  <placeName ref="boat">bottom</placeName> after the storm. </p>
+                  <placeName type="boat">bottom</placeName> after the storm. </p>
 
             <p>
                <quote>“How did you get here?”</quote>
@@ -258,7 +273,7 @@
                      <roleName type="guard">dragons</roleName> guardin’ the high-security
                      <placeName>vaults</placeName>. And then yeh gotta find yer way —
                      <placeName>Gringotts</placeName> is hundreds of miles under
-                     <placeName>London</placeName>, see. Deep under the <placeName ref="Gringotts"
+                     <placeName>London</placeName>, see. Deep under the <placeName type="Gringotts"
                      >Underground</placeName>. Yeh’d die of hunger tryin’ ter get out, even if yeh
                   did manage ter get yer hands on summat.”</quote>
             </p>
@@ -266,7 +281,7 @@
             <p>
                <persName>Harry</persName> sat and thought about this while
                   <persName>Hagrid</persName> read his <objectName>newspaper</objectName>, the Daily
-               Prophet. <persName>Harry</persName> had learned from <roleName ref="Vernon"
+               Prophet. <persName>Harry</persName> had learned from <roleName type="Vernon"
                   >Uncle</roleName>
                <persName>Vernon</persName> that people liked to be left alone while they did this,
                but it was very difficult, he’d never had so many questions in his life. </p>
