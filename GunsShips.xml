@@ -18,6 +18,7 @@
   </teiHeader>
   <text>
       <body>
+
             <div type="song">
             <head>"Guns and Ships"</head>
 
@@ -236,6 +237,227 @@
             </lg>
             </sp>
          </div>
+
+         <div type="song">
+            <head>"Guns and Ships"</head>
+
+               <sp>
+               <speaker><persName>Aaron Burr</persName></speaker>
+                  <lg>
+                   <l>How does a ragtag volunteer <orgName>army</orgName> in need of a shower
+                      Somehow defeat a global superpower?</l>
+                   <l>How do we emerge victorious from the <placeName>quagmire</placeName>?</l>
+                   <l>Leave the <placeName>battlefield</placeName> waving <persName>Betsy Ross</persName>' <objectName>flag</objectName> higher?</l>
+                   <l>Yo, turns out we have a secret <objectName>weapon</objectName></l>
+                   <l>An <persName>immigrant</persName>, you know and love, who's unafraid to step in</l>
+                   <l>He's constantly confusin', confoundin' the <orgName>British</orgName> <persName>henchmen</persName></l>
+                   <l>Ev'ryone give it up for <orgName>America</orgName>'s favorite fighting <persName>Frenchman</persName></l>
+                 </lg>
+              </sp>
+           
+           <sp>
+           <speaker><orgName>Company</orgName></speaker>
+               <lg>
+                   <l><persName>Lafayette!</persName></l>
+               </lg>
+           </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>I'm takin' this horse by the <objectName>reins</objectName> makin'</l>
+                  <l><orgName>Redcoats</orgName> redder with bloodstains</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker>Company</speaker>
+               <lg>
+                  <l><persName>Lafayette</persName>!</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>And I'm never gonna stop until I make 'em</l>
+                  <l>Drop and burn 'em up and scatter their <objectName>remains</objectName>, I'm</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker>Company</speaker>
+               <lg>
+                  <l><persName>Lafayette</persName>!</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>Watch me engagin' em! Escapin' em!</l>
+                  <l>Enragin' em! I'm-</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker>Company</speaker>
+               <lg>
+                  <l><persName>Lafayette</persName>!</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>I go to <placeName>France</placeName> for more funds</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><orgName>Company</orgName></speaker>
+               <lg>
+                  <l><persName>Lafayette</persName>!</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>I come back with more</l>
+               </lg>
+            </sp>
+            
+           <sp>
+           <speaker><persName>Lafayette</persName> and <orgName>Ensemble</orgName></speaker>
+              <lg>
+                  <l><objectName>guns</objectName></l>
+                  <l>And <objectName>ships</objectName></l>
+                  <l>And so the balance shifts</l>
+              </lg>
+           </sp>
+                
+           <sp>
+           <speaker><persName>Washington</persName></speaker>
+              <lg>
+                  <l>We rendezvous with <persName>Rochambeau</persName>, consolidate their <objectName>gifts</objectName></l>
+              </lg>
+           </sp>
+            
+           <sp>
+           <speaker><persName>Lafayette</persName></speaker>
+              <lg>
+                  <l>We can end this war at <placeName>Yorktown</placeName>, cut them off at <placeName>sea</placeName>, but</l>
+                  <l>For this to succeed, there is someone else we need</l>
+              </lg>
+           </sp>
+            
+           <sp>
+           <speaker><persName>Washington</persName></speaker>
+               <lg>
+                  <l>I know</l>
+               </lg>
+           </sp>
+            
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Company</orgName></speaker>
+               <lg>   
+                  <l><persName>Hamilton</persName>!</l>
+               </lg>
+            </sp>
+               
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>   
+                  <l>Sir, he knows what to do in a <placeName>trench</placeName></l>
+                  <l>Ingenuitive and fluent in French, I mean-</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Company</orgName></speaker>
+            <lg>
+               <l><persName>Hamilton</persName>!</l>
+            </lg>
+            </sp>   
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>Sir, you're gonna have to use him eventually</l>
+                  <l>What's he gonna do on the <placeName>bench</placeName> ami?</l>
+               </lg>
+            </sp>
+               
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Company</orgName></speaker>
+               <lg>   
+                  <l><persName>Hamilton</persName>!</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName></speaker>
+               <lg>
+                  <l>No one has more resilience</l>
+                  <l>Or matches my practical tactical brilliance</l>
+               </lg>
+            </sp>
+               
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Company</orgName></speaker>
+               <lg>   
+                  <l><persName>Hamilton</persName>!</l>
+               </lg>
+            </sp>   
+            
+            <sp>
+            <speaker><persName>Lafayette</persName> and <orgName>Company</orgName></speaker>
+                <lg>
+                   <l>You wanna fight for your <objectName>land</objectName> back?</l>
+                </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Company</orgName></speaker>
+                <lg>
+                   <l><persName>Hamilton</persName>!</l>
+                </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Washington</persName> and <orgName>Women</orgName></speaker>
+                <lg>
+                   <l>I need my right-hand <persName>man</persName> back!</l>
+                </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Lafayette</persName>, <orgName>Women</orgName>, <orgName>Men</orgName></speaker>
+               <lg>
+                  <l>Ah! Uh, get ya right-hand <persName>man</persName>, back</l>
+                  <l>You know you gotta get ya right-hand <persName>man</persName> back</l>
+                  <l>I mean you gotta put some thought</l>
+                  <l>Into the <objectName>letter</objectName> but the sooner the better</l>
+                  <l>To get your right-hand <persName>man</persName> back</l>
+               </lg>
+            </sp>
+            
+            <sp>
+            <speaker><persName>Washington</persName></speaker>   
+               <lg>
+                  <l><persName>Alexander Hamilton</persName></l>
+                  <l><orgName>Troops</orgName> are waiting in the <placeName>field</placeName> for you</l>
+                  <l>If you join us right now, together we can turn the tide</l>
+                  <l>Oh, <persName>Alexander Hamilton</persName></l>
+                  <l>I have <orgName>soldiers</orgName> that will yield for you</l>
+                  <l>If we manage to get this right</l>
+                  <l>They'll surrender by early light</l>
+                  <l>The <orgName>world</orgName> will never be the same, <persName>Alexander</persName></l>
+              </lg>
+           </sp>
+        </div>
+
       </body>
   </text>
 </TEI>
