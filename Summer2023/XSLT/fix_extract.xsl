@@ -18,17 +18,13 @@
     
     
     <!--Match Root Node -->
-    
-    <xsl:template match="/">
-                
-            <xsl:text>"elementName", "elementContent", "typeAttributeIfPresent"</xsl:text>
-            <xsl:for-each select="//text//persName | //text//placeName | //text//geogFeat">  
-            <!-- <xsl:sort select="name()"/>
-            <xsl:sort select="."/>
-            <xsl:sort select="@type"/>-->
-                <xsl:value-of select="jc:createCSV(.)"/>
-            </xsl:for-each> 
-    </xsl:template>     
+
+    <xsl:template match="/"> 
+        <xsl:text>"elementName", "elementContent", "typeAttributeIfPresent", "chapter"</xsl:text>
+        <xsl:for-each select="//text//persName | //text//placeName | //text//geogFeat">
+            <xsl:value-of select="jc:createCSV(.)"/>
+        </xsl:for-each> 
+    </xsl:template>
     
     <!-- This function creates a string from the node provided to it --> 
     <xsl:function name="jc:createCSV" as="xs:string" >
@@ -39,8 +35,8 @@
         <!-- Create CSV terminal (just a " or &quot but why not) -->
         <xsl:variable name="terminal"><xsl:text>&quot;</xsl:text></xsl:variable>
         <!-- For each of the columns, create a variable starting from the current node 
-      but call a function on its content to escape any double quotes.  
-      For those which might have multiple instances, provide a separator; -->
+        but call a function on its content to escape any double quotes.  
+        For those which might have multiple instances, provide a separator; -->
         <xsl:variable name="tag"><xsl:value-of select="$node/name()"/></xsl:variable>
         <xsl:variable name="elementName"><xsl:value-of select="$node/jc:csvEscapeDoubleQuotes(.)"/></xsl:variable>
         <xsl:variable name="elementContent"><xsl:value-of select="$node/jc:csvEscapeDoubleQuotes(.)" /></xsl:variable>

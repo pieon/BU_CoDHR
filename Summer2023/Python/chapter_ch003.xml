@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:div xmlns:ns0="http://www.tei-c.org/ns/1.0" type="chapter" xml:id="ch003" xml:lang="fr" n="ch003">
+            <header>Chapter ch003</header><ns0:teiHeader>
+      <ns0:fileDesc>
+         <ns0:titleStmt>
+            <ns0:title type="main">Suzette: a Digital Edition</ns0:title>
+            <ns0:respStmt>
+               <ns0:persName>John Westbrook</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Editor</ns0:resp>
+            </ns0:respStmt>
+            <ns0:respStmt>
+               <ns0:persName>Diane Jakacki</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Project Manager</ns0:resp>
+            </ns0:respStmt>
+            <ns0:respStmt>
+               <ns0:persName>Annie Girton</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Research Assistant and Encoder, 2018-2020</ns0:resp>
+            </ns0:respStmt>
+            <ns0:respStmt>
+               <ns0:persName>Sarah Haber</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Research Assistant and Encoder, 2020-Present</ns0:resp>
+            </ns0:respStmt>
+            <ns0:respStmt>
+               <ns0:persName>Rebecca Heintzelman</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Research Assistant and Encoder, 2020-Present</ns0:resp>
+            </ns0:respStmt>
+            <ns0:respStmt>
+               <ns0:persName>Juliya Harnood</ns0:persName>
+               <ns0:orgName>Bucknell University</ns0:orgName>
+               <ns0:resp>Research Assistant and Encoder, 2021-Present</ns0:resp>
+            </ns0:respStmt>
+         </ns0:titleStmt>
+         <ns0:publicationStmt>
+            <ns0:distributor>Bucknell University</ns0:distributor>
+            <ns0:pubPlace>
+               <ns0:address>
+                  <ns0:addrLine>One Dent Drive</ns0:addrLine>
+                  <ns0:addrLine>Lewisburg, PA 17837</ns0:addrLine>
+               </ns0:address>
+            </ns0:pubPlace>
+            <ns0:availability>
+               <ns0:licence>Attribution-NonCommercial-ShareAlike 4.0 International</ns0:licence>
+            </ns0:availability>
+         </ns0:publicationStmt>
+         <ns0:sourceDesc>
+            <ns0:biblStruct>
+               <ns0:monogr>
+                  <ns0:title>Suzette: Livre de Lecture Courante à l’Usage des Jeunes Filles.
+                     Morale—Leçon de choses, Economie Domestique – Ménage – Cuisine –
+                     Couture</ns0:title>
+                  <ns0:author>Robert Halt</ns0:author>
+                  <ns0:textLang>French</ns0:textLang>
+                  <ns0:imprint>
+                     <ns0:date>1889</ns0:date>
+                     <ns0:distributor>Libraire Classique Paul Delaplane</ns0:distributor>
+                     <ns0:pubPlace>Paris, France</ns0:pubPlace>
+                  </ns0:imprint>
+               </ns0:monogr>
+            </ns0:biblStruct>
+         </ns0:sourceDesc>
+      </ns0:fileDesc>
+   </ns0:teiHeader>
+   <ns0:head> 3. — Où est la maman ? (Élève, p. 8.) </ns0:head>
+            <ns0:pb type="page" n="8" />
+            <ns0:div type="récit">
+
+               <ns0:p> Mais bientôt la tête joufflue du petit bambin se mit à dodeliner* <ns0:note type="annotation"> Dodeliner. Balancer lentement la tête de droite à
+                     gauche.</ns0:note>, puis tomba sur le genou paternel.</ns0:p>
+               <ns0:p> — Voilà <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName> endormi. Il
+                  faut aller se coucher, mes enfants, dit le père. </ns0:p>
+               <ns0:p> Il eut un brusque soubresaut* <ns0:note type="annotation"> Soubresaut. Saut subit,
+                     inattendu.</ns0:note>, se frappa le front : </ns0:p>
+               <ns0:p> — Ah ! j'ai encore oublié ! Les leçons pour demain, les sait-on au moins ? Hum !
+                  hum ! j'y pensais cette après-midi aux champs. Vous êtes aussi une terre où l'on
+                  sème, et je ne veux pas récolter en vous des ronces et des chardons. Au vieux
+                  temps* <ns0:note type="annotation">Le vieux temps. Le temps antérieur au moins d'un
+                     siècle à l'époque actuelle.</ns0:note>, dans ce village de <ns0:placeName type="fictif">Fragicourt</ns0:placeName>, un seul homme, — les registres en font foi — un seul
+                  homme savait lire : c'était mon grand-père <ns0:persName type="fictif">Mathias
+                     Dumay</ns0:persName>, celui-là même qui a bâti la maison qui nous abrite. Et il ne
+                  faut pas que vous redeveniez des <ns0:fw type="header"> OU EST LA MAMAN ? 9 </ns0:fw>
+                  <ns0:pb type="page" n="9" /> sauvages. J'aurais dû vous dire de prendre vos livres
+                  après souper ; encore un oubli... Et puis, pas de pétrole. Quatre enfants, une
+                  charrue, une ferme à conduire ! Trop à faire, trop à faire !... Ma pauvre femme
+                  !... Ma chère aide si tôt partie !... </ns0:p>
+               <ns0:p> Il secoua la tête tristement et reprit : </ns0:p>
+               <ns0:p> — Ainsi, on ne saura pas ses leçons ! </ns0:p>
+               <ns0:p> — Moi, je les sais presque, répondit <ns0:persName type="fictif" key="suzette">Suzette,</ns0:persName> ; si vous voulez m'éveiller demain, papa, je les
+                  repasserai, et cela suffira. </ns0:p>
+               <ns0:p>
+                  <ns0:persName type="fictif" key="jacques">Jacques,</ns0:persName>, l'aîné, en dit autant.
+                     <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName>, le dernier, qui
+                  d'ailleurs ne connaissait encore de l'alphabet que les premières lettres, ronflant
+                  déjà, ne pouvait répondre. </ns0:p>
+               <ns0:p> — Et toi, <ns0:persName type="fictif" key="françois">François,</ns0:persName> ? </ns0:p>
+               <ns0:p>
+                  <ns0:persName type="fictif" key="françois">François,</ns0:persName> était le monsieur au
+                  nez en trompette. Il déclara qu'il savait ses leçons sur le bout du doigt* <ns0:note type="annotation">Sur le bout du doigt. Sans faire une faute.</ns0:note>. C'était
+                  son habitude. <ns0:persName type="fictif" key="suzette">Suzette,</ns0:persName> se mit à
+                  rire : </ns0:p>
+               <ns0:p> — Quand le bout du doigt, dit-elle, sera chargé de réciter les leçons, tu auras
+                  de bonnes notes. </ns0:p>
+               <ns0:p> — J'éveillerai aussi <ns0:persName type="fictif" key="françois">François,</ns0:persName>,
+                  dit le père. </ns0:p>
+               <ns0:p> Soulevant le petit <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName>, il
+                  le prit dans ses bras pour le mettre au lit. </ns0:p>
+               <ns0:p> Mais, sous la pression un peu gauche et rude de ses mains, l'enfant s'éveilla.
+                  Ses yeux bleus étonnés se tournèrent vers la fenêtre par où entrait un clair rayon
+                  de lune, et, comme tout à l'heure, parurent chercher quelque chose qu'ils ne
+                  trouvèrent pas. Puis, appesantis de sommeil, ils se refermèrent ; la petite tête,
+                  avec un soupir, retomba sur l'épaule du père. </ns0:p>
+               <ns0:p> Bientôt après, dans le grand silence de la nuit, la maisonnée* <ns0:note type="annotation">Maisonnée. Les habitants de la maison.</ns0:note> entière
+                  reposait. </ns0:p>
+               <ns0:p> Pauvre maisonnée, pauvre foyer sans âme ! La mère <ns0:fw type="footer"><ns0:fw type="sig"> 1. </ns0:fw></ns0:fw>
+                  <ns0:fw type="header"> 10 SUZETTE.</ns0:fw>
+                  <ns0:pb type="page" n="10" /> aussi dormait, mais au cimetière, depuis tantôt deux ans
+                  ; et c'est elle, sans doute, que cherchait, depuis ce temps-là, l'œil bleu
+                  vaguement* <ns0:note type="annotation">Vaguement. Sans but bien déterminé, bien
+                     fixé.</ns0:note> étonné de <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName>, le dernier né. </ns0:p>
+            </ns0:div>
+            <ns0:div type="questionnaire">
+               <ns0:head> Questionnaire. </ns0:head>
+               <ns0:list>
+                  <ns0:item>— A quel moment le père annonça-t-il qu'on allait se coucher ?</ns0:item>
+                  <ns0:item>— Quel nouvel oubli avait-il fait ?</ns0:item>
+                  <ns0:item>— N'avait-il pas cependant songé aux leçons pendant le jour ?</ns0:item>
+                  <ns0:item>— Que dit-il pour montrer combien il tenait à l'instruction de ses enfants
+                     ?</ns0:item>
+                  <ns0:item>— Qu'est-ce qui l'avait<ns0:cb /> réoccupé au point de ne plus songer aux leçons
+                     ?</ns0:item>
+                  <ns0:item>— Que répondirent successivement <ns0:persName type="fictif" key="jacques">Jacques,</ns0:persName>, <ns0:persName type="fictif" key="suzette">Suzette,</ns0:persName> et <ns0:persName type="fictif" key="françois">François,</ns0:persName> lorsque le père demanda s'ils savaient leurs leçons
+                     ?</ns0:item>
+                  <ns0:item>— Quelle remarque fit <ns0:persName type="fictif" key="suzette">Suzette,</ns0:persName> à <ns0:persName type="fictif" key="françois">François,</ns0:persName> ?</ns0:item>
+                  <ns0:item>— Donnez des détails sur le coucher de <ns0:persName type="fictif" key="charlot">Charlot.</ns0:persName>.</ns0:item>
+               </ns0:list>
+            </ns0:div>
+            <ns0:div type="exercices">
+               <ns0:head>DÉVELOPPEMENT DES SUJETS PROPOSÉS POUR EXERCICES. </ns0:head>
+               <ns0:div type="morale">
+                  <ns0:head type="sujets"> Morale. </ns0:head>
+                  <ns0:div type="questions">
+                     <ns0:list type="exercices">
+                        <ns0:item>— Que doivent faire les enfants raisonnables, au retour de l'école,
+                           dans la maison paternelle ?</ns0:item>
+                        <ns0:item>— Que cherchaient les regards de <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName> quand on le porta au lit ? Pourquoi ?</ns0:item>
+                     </ns0:list>
+                  </ns0:div>
+                  <ns0:div type="réponses">
+                     <ns0:p> Au retour de l'école, les enfants, après avoir salué et embrassé leurs
+                        parents, demanderont s'il n'y a pas quelque travail à leur confier, et s'ils
+                        ne peuvent rendre service en partageant les occupations de leur père et de
+                        leur mère. Si l'on répond affirmativement, ils s'acquitteront avec soin de
+                        la tâche qui leur sera confiée ; puis ils rédigeront les devoirs et
+                        étudieront les leçons à préparer pour le lendemain ; le tout, sans hâte et
+                        avec réflexion. Ils joueront aux heures et aux endroits désignés par les
+                        parents. Une jeune fille ne s'amuse point sur la voie publique sans être
+                        accompagnée, surtout dans les grandes villes. </ns0:p>
+                     <ns0:p>Le pauvre petit <ns0:persName type="fictif" key="charlot">Charlot,</ns0:persName>
+                        avait, bien sûr, gardé le souvenir de sa mère et des soins affectueux dont
+                        elle l'entourait. A travers le demi- sommeil qui appesantissait ses
+                        paupières, ses yeux regardaient vaguement autour de la chambre pour voir si
+                        cette mère chérie ne reviendrait pas, comme autrefois, le prendre dans ses
+                        bras et le porter doucement au berceau. </ns0:p>
+                  </ns0:div>
+               </ns0:div>
+               <ns0:div type="économie_domestique">
+                  <ns0:head type="sujets"> Économie domestique. </ns0:head>
+                  <ns0:div type="questions">
+                     <ns0:list type="exercices">
+                        <ns0:item>— Quels sont les travaux d'intérieur et les soins qui sont à la charge
+                           d'une mère de famille ?</ns0:item>
+                     </ns0:list>
+                  </ns0:div>
+                  <ns0:div type="réponses">
+                     <ns0:p> Les travaux intérieurs et les soins qui sont à la charge de la mère de
+                        famille se rapportent : </ns0:p>
+                     <ns0:p>1° Aux enfants ; — 2° à la tenue de la maison ; — 3° à la préparation des
+                        aliments ; — 4° à l'entretien du linge et des vêtements. Il s'y ajoute, à la
+                        campagne, la direction de la basse-cour et la culture d'une partie du
+                        jardin. </ns0:p>
+                     <ns0:p>Parmi les soins qui concernent les enfants, citons ceux que réclament leur
+                        éducation, la propreté de leur corps, l'entretien de leurs vêtements, la
+                        direction et la surveillance des jeux et, en cas de maladie ou d'accident,
+                        l'application du traitement ordonné par le médecin : c'est alors le moment
+                        des longues veilles, des inquiétudes et des larmes. </ns0:p>
+                     <ns0:p>La mère est souvent levée la première, quoique souvent encore la repos de
+                        ses nuits soit troublé par l'appel des bébés souffrants. Elle prépare le
+                        déjeuner, allume les feux, habille les enfants ; plus tard, elle s'occupe du
+                        ménage, range, nettoie, époussète. A-t-elle fini ? peut-elle avoir un moment
+                        de loisir ? Non. Il faut songer aux autres repas, aux vêtements déchirés, au
+                        linge sali et usé, aux achats divers, sans compter les visites obligatoires
+                        et la tenue de la comptabilité domestique. Son rôle, en un mot, est de
+                        s’oublier et se sacrifier pour tous. </ns0:p>
+                  </ns0:div>
+               </ns0:div>
+               <ns0:div type="histoire">
+                  <ns0:head type="sujets"> Histoire. </ns0:head>
+                  <ns0:div type="questions">
+                     <ns0:list type="exercices">
+                        <ns0:item>— Racontez ce que vous savez de l'instruction des gens <ns0:pb type="page" n="11" />
+                           <ns0:fw type="header"> LA FEMME DE LA CAVERNE. 11 </ns0:fw> de la campagne aux
+                           siècles passés.</ns0:item>
+                        <ns0:item>— Que racontent les personnes âgées, et entre autres vos
+                           grands-parents, de l'école qu'ils fréquentaient dans leur enfance
+                           ?</ns0:item>
+                     </ns0:list>
+                  </ns0:div>
+                  <ns0:div type="réponses">
+                     <ns0:p> La misère qui régnait dans les campagnes, aux siècles passés, ne permettait
+                        ni aux communes de rétribuer convenablement les instituteurs et les
+                        institutrices, ni aux familles d'envoyer les enfants régulièrement à
+                        l'école. Il en résultait que les maîtres étaient ignorants et les  classes
+                        irrégulièrement fréquentées ; la plupart d'entre elles se fermaient pendant
+                        la belle saison. </ns0:p>
+                     <ns0:p>Quant aux maisons d'école, elles étaient aussi pauvres que les habitations
+                        environnantes ; le matériel se composait de bancs grossiers et de tables
+                        incommodes, pesantes et mal équilibrées sur un sol de terre battue. Point de
+                        cartes aux murailles, point de ces belles images qui représentent les
+                        minéraux, les végétaux, les animaux ; à peine si l'on possédait un petit
+                        tableau noir. </ns0:p>
+                     <ns0:p>Tour à tour, on allait lire auprès du maître dans de vieux livres où il y
+                        avait plus de latin que de français ; on écrivait ensuite lorsqu'on savait
+                        lire, et, plus tard, on s'essayait au calcul : c'était tout. Combien
+                        aujourd'hui la situation est améliorée, et qu'il est facile aux enfants
+                        d'acquérir les connaissances nécessaires à chacun ! </ns0:p>
+                  </ns0:div>
+               </ns0:div>
+            </ns0:div>
+         </ns0:div>
+         
